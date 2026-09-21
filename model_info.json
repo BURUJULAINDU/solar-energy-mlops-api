@@ -1,0 +1,21 @@
+{
+  "model_version": "V2",
+  "training_rows": 12000,
+  "features": [
+    "solar_irradiance_w_m2",
+    "temperature_c",
+    "humidity_percent",
+    "energy_generated_kwh",
+    "hour",
+    "day_of_week",
+    "month"
+  ],
+  "target": "energy_consumption_kwh",
+  "algorithm": "RandomForestRegressor",
+  "trained_at_utc": "2026-09-21T09:42:45.241846+00:00",
+  "evaluation": {
+    "MAE": 0.2952870635774164,
+    "RMSE": 0.3691966296951364,
+    "R2": 0.5941283588467214
+  }
+}

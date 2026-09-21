@@ -1,0 +1,1 @@
+fastapi\nuvicorn\npydantic\npandas\nscikit-learn\njoblib\n
