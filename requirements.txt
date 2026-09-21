@@ -1,1 +1,6 @@
-fastapi\nuvicorn\npydantic\npandas\nscikit-learn\njoblib\n
+fastapi
+uvicorn
+pydantic
+pandas
+scikit-learn
+joblib
